@@ -38,21 +38,21 @@ The dashboard transforms raw credit card customer and transaction datasets into 
 
 # 📊 Dashboard Preview
 
-## 👤 Customer Dashboard
+## 💳 Transaction Dashboard
 
 <p align="center">
 
-<img src="/Users/keyurrajendrashelke/Desktop/CreditCard_Dashboard/Customer_Report..png" width="1000"/>
+<img src="CreditCard_Dashboard/Trancaction_Report..png" width="1000"/>
 
 </p>
 
 ---
 
-## 💳 Transaction Dashboard
+## 👤 Customer Dashboard
 
 <p align="center">
 
-<img src="Images/transaction-dashboard.png" width="1000"/>
+<img src="CreditCard_Dashboard/Customer_Report..png" width="1000"/>
 
 </p>
 
@@ -62,7 +62,7 @@ The dashboard transforms raw credit card customer and transaction datasets into 
 
 <p align="center">
 
-<img src="Images/weekly-status-report.png" width="1000"/>
+<img src="CreditCard_Dashboard/Status Report.png" width="1000"/>
 
 </p>
 
